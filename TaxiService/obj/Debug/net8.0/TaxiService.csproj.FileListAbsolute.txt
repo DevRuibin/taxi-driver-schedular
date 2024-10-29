@@ -1,0 +1,15 @@
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/bin/Debug/net8.0/TaxiService
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/bin/Debug/net8.0/TaxiService.deps.json
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/bin/Debug/net8.0/TaxiService.runtimeconfig.json
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/bin/Debug/net8.0/TaxiService.dll
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/bin/Debug/net8.0/TaxiService.pdb
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.AssemblyInfoInputs.cache
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.AssemblyInfo.cs
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.csproj.CoreCompileInputs.cache
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.sourcelink.json
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.dll
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/refint/TaxiService.dll
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.pdb
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/TaxiService.genruntimeconfig.cache
+/Users/ruibin/code/driver_taxi_schedular/TaxiService/obj/Debug/net8.0/ref/TaxiService.dll
